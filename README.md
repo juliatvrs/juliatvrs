@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/juliatvrs">
-  <img height="180em" width ="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juliatvrs&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="180em" width ="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juliatvrs&layout=compact&langs_count=8&theme=bear"/>
+  <img height="180em" width ="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juliatvrs&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="180em" width ="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juliatvrs&layout=compact&langs_count=8&theme=bear"/>
 <div>
 
 <div style="display: inline_block" align="center"><br>
